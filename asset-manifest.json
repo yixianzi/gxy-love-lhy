@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gxy-love-lhy/static/css/main.e5571238.chunk.css",
+    "main.js": "/gxy-love-lhy/static/js/main.ff541b3f.chunk.js",
+    "main.js.map": "/gxy-love-lhy/static/js/main.ff541b3f.chunk.js.map",
+    "runtime-main.js": "/gxy-love-lhy/static/js/runtime-main.0f17a4f5.js",
+    "runtime-main.js.map": "/gxy-love-lhy/static/js/runtime-main.0f17a4f5.js.map",
+    "static/css/2.aa7fcd32.chunk.css": "/gxy-love-lhy/static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.0fe4854d.chunk.js": "/gxy-love-lhy/static/js/2.0fe4854d.chunk.js",
+    "static/js/2.0fe4854d.chunk.js.map": "/gxy-love-lhy/static/js/2.0fe4854d.chunk.js.map",
+    "index.html": "/gxy-love-lhy/index.html",
+    "precache-manifest.438327bbe97cc0f0cd40473c5814d124.js": "/gxy-love-lhy/precache-manifest.438327bbe97cc0f0cd40473c5814d124.js",
+    "service-worker.js": "/gxy-love-lhy/service-worker.js",
+    "static/css/2.aa7fcd32.chunk.css.map": "/gxy-love-lhy/static/css/2.aa7fcd32.chunk.css.map",
+    "static/css/main.e5571238.chunk.css.map": "/gxy-love-lhy/static/css/main.e5571238.chunk.css.map",
+    "static/media/App.css": "/gxy-love-lhy/static/media/digital-7_mono.8e22783d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f17a4f5.js",
+    "static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.0fe4854d.chunk.js",
+    "static/css/main.e5571238.chunk.css",
+    "static/js/main.ff541b3f.chunk.js"
+  ]
+}
