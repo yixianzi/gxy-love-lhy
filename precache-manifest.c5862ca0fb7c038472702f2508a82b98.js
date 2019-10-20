@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03624cfc18413a364989ff70b8268e2f",
+    "revision": "cf13e452d8e50e44700f28e7dec701cb",
     "url": "/gxy-love-lhy/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gxy-love-lhy/static/css/2.aa7fcd32.chunk.css"
   },
   {
-    "revision": "1a998cb5e40737bb301b",
-    "url": "/gxy-love-lhy/static/css/main.e5571238.chunk.css"
+    "revision": "fd9d988c093ecfc127cf",
+    "url": "/gxy-love-lhy/static/css/main.f17dc9ee.chunk.css"
   },
   {
     "revision": "d3f39a5186f9f8065d2b",
     "url": "/gxy-love-lhy/static/js/2.0fe4854d.chunk.js"
   },
   {
-    "revision": "1a998cb5e40737bb301b",
-    "url": "/gxy-love-lhy/static/js/main.ff541b3f.chunk.js"
+    "revision": "fd9d988c093ecfc127cf",
+    "url": "/gxy-love-lhy/static/js/main.3e81e696.chunk.js"
   },
   {
     "revision": "c8c315bb12c2fa1735dd",
