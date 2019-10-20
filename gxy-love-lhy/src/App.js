@@ -58,6 +58,9 @@ function App() {
     </Carousel>
     <img src="" alt=""/>
       <div className="love_time">
+        <p>祝宝宝生日快乐~</p>
+        <div>在我眼里</div>
+        <p>你永远是<span className="age">18</span>岁</p>
         <div>我们已经相爱了</div>
         {result}
         {result=== (   
@@ -66,8 +69,10 @@ function App() {
           </div>)
             ? null :
           (<div>      
-            <div>这个数字将会，一直一直，一直一直增加下去</div>
-            <div>直到永远</div>
+            <p>这个数字将会</p>
+            <p>一直一直，一直一直</p>
+            <p>增加下去</p>
+            <p>直到永远</p>
           </div>)
         }
       </div>
